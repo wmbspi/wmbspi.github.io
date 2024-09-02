@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-## **<span style="color:$gray-800">Mapping Brain-Body-Behavior Signal Dynamics in Human Speech Production and Interaction (MBBSD-HSPI)</span>**
+## **<span style="color:$gray-800">Mapping Brain-Body-Behavior Signal Dynamics in Human Speech Production and Interaction (WMB&SPI)</span>**
 
 Welcome to the website of the Workshop on Mapping Brain-Body-Behavior Signal Dynamics in Human Speech Production and Interaction (WMB&SPI), a Satellite Workshop of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). The workshop will be held in conjunction with ICASSP 2025, which will take place in Hyderabad, India from April 06 to April 11, 2025. The workshop is planned to be co-located with ICASSP 2025 and held adjacent to the dates of the conference (exact date of the workshop will be announced soon).
 
