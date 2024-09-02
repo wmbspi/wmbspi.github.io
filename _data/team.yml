@@ -19,7 +19,7 @@
 
 - name: Shri Narayanan
   role: University Professor and Niki & C. L. Max Nikias Chair in Engineering 
-  image: assets/theme/images/vipularora.png
+  image: assets/theme/images/shri.jpg
   description: >
     University of Southern California, Los Angeles, USA
    
@@ -41,71 +41,80 @@
     Computing Machinery (ACM), the International Speech Communication Association (ISCA), the Association 
     for Psychological Science (APS), the American Association for the Advancement of Science (AAAS), American 
     Institute for Medical and Biological Engineering (AIMBE) and the Association for the Advancement of Affective 
-    Computing (AAAC). Shri Narayanan is a member of the [European Academy of Sciences](https://euro-acad.eu/) and Arts and a [2022 Guggenheim 
-    Fellow](https://www.gf.org/fellows/shrikanth-narayanan/). He is also a member of the professional honor societies Tau Beta Pi, Phi Kappa Phi and Eta Kappa Nu.
-  email: vipular@iitk.ac.in
+    Computing (AAAC). Shri Narayanan is a member of the [European Academy of Sciences](https://euro-acad.eu/) and Arts and a 
+    [2022 Guggenheim Fellow](https://www.gf.org/fellows/shrikanth-narayanan/). He is also a member of the professional honor 
+    societies Tau Beta Pi, Phi Kappa Phi and Eta Kappa Nu.
 
-- name: Vinoo Alluri
-  role: Assistant Professor
-  image: assets/theme/images/vinooalluri.png
-  description: >
-    Cognitive Science Lab, IIIT-H, India
-     
-     > Vinoo Alluri is an Assistant Professor at the Cognitive Science Lab at the International Institute of Information 
-     Technology-Hyderabad, India. She has a background in Electronics and Communication Engineering, after which she pursued a 
-     Masters in Music Engineering Technology at the University of Miami, and a Ph.D. in Musicology from the University of 
-     Jyväskylä, Finland. Her work is highly interdisciplinary involving music psychology, music information retrieval, and 
-     neuroscience. She also has formal training in the violin and piano. She currently serves as a meta reviewer for ISMIR, 
-     virtual chair for the upcoming ISMIR 2024, and co-organizer of the ICMPC/ESCOM 2021. 
-  email: vinoo.alluri@iiit.ac.in
+    Shri Narayanan has received several honors and awards including the [2025 IEEE James L. Flanagan Speech and 
+    Audio Processing Award](https://corporate-awards.ieee.org/recipient/shrikanth-narayanan/), the [2024 Edward J. McCluskey 
+    Technical Achievement Award from the IEEE Computer Society](https://www.computer.org/publications/tech-news/insider-membership-news/shrikanth-narayanan-interview),
+     the [2023 ISCA Medal for Scientific Achievement](https://isca-speech.org/Honors/Medals#2023), a [2023 IEEE SPS Claude Shannon-Harry 
+     Nyquist Technical Achievement Award](https://signalprocessingsociety.org/sites/default/files/uploads/community_involvement/awards/Claude_SH_Nyquist_Technical_Achievement_Award.pdf)
+      (for contributions to spoken language processing technologies and their societal applications) from the IEEE Signal Processing 
+      Society and the [2020 ACM ICMI Sustained Accomplishment Award](https://icmi.acm.org/2020/index.php?id=award). His research publications 
+      have received the 2023 Richard Deswarte Prize in Digital History (for paper published in Digital Humanities Quarterly with Gabor Toth,
+       Tim Hempel, Krishna Somandepalli), a 2018 ISCA Best Journal Paper Award (for paper published in Computer Speech and Language Journal with 
+       Ming Li and Kyu Han), the Ten Year Technical Impact Award from ACM ICMI in 2014, a 2009 Best Transactions (Journal) Paper award (with Chul Min Lee) and a 
+       2005 Best Transactions Paper Award (with Alexandros Potamianos) from the IEEE Signal Processing society for papers published in the IEEE Transactions on Speech 
+       and Audio Processing.
 
-- name: Nithya Shikarpur
-  role: PhD Candidate
-  image: assets/theme/images/nithya.png
-  description: > 
-    MIT, USA
-
-    > Nithya Shikarpur is a computer science PhD student at MIT under the supervision of Prof. Anna Huang. She works on generative 
-    modeling of music, specifically low-resource genres such as Hindustani music, and is interested in studying aspects of human-AI 
-    co-creation with her models. Earlier, she completed her masters in computer science at Mila and Université de Montréal. She has 
-    co-organized the Music AI reading group at Mila and volunteered for the organization committee of ISMIR 2022. Website: [https://snnithya.github.io](https://snnithya.github.io)
-  email: snnithya@mit.edu
-
-- name: Manaswi Mishra
-  role: PhD Candidate
-  image: assets/theme/images/manaswi.png
-  description: > 
-    MIT Media Lab, USA
-    
-    > Manaswi Mishra is a PhD student and LEGO Papert fellow at MIT Media Lab, in the Opera of the Future research group with 
-    Prof. Tod Machover. His research is focused on generative AI for audio synthesis and novel instrument design for live music 
-    performance - across museum archives, Operas and Symphonies around the world; published in the Boston Globe, Harvard Tech 
-    Review, Washington Post, Conferences of Computational Creativity, Communications of ACM etc. He has been an organiser of 
-    music tech community india hackathons since 2017, ISMIR satellite hackathon 2022, ADCx India 2024.
-  email: manaswim@media.mit.edu
-
-- name: Ranjani H G
-  role: Principal Data Scientist
-  image: assets/theme/images/ranjanihg.png
-  description: > 
-    GAIA, Ericsson R&D, India
-    
-    > Ranjani H G is a Principal Data Scientist at GAIA, Ericsson R&D in Bengaluru, India. Her research interests include machine 
-    learning, signal processing, speech, audio and music signal analysis and RAN. Her PhD thesis topic was computational approaches for 
-    structural analysis of Indian art music signals.She has been a reviewer in past editions of ISMIR, TISMIR, ICASSP and been part of 
-    the organizing committee of ISMIR 2022. 
-  email: ranjanihg@gmail.com
-
-- name: Ajay Srinivasamurthy
-  role: Applied Science Manager
-  image: assets/theme/images/ajay.png
-  description: > 
-    Amazon AGI, India; IIT Hyderabad, India
-    
-    > Ajay Srinivasamurthy is an Applied Science Manager at Amazon Artificial General Intelligence team in Bengaluru, India and a 
-    visiting member of the faculty at the Department of Heritage Science and Technology, IIT Hyderabad. His research interests 
-    span speech, audio and music signal processing and machine learning. He has been a meta-reviewer in the past editions of the ISMIR 
-    conference and has served as the general chair for ISMIR 2022 in Bengaluru, India. He currently serves on the ISMIR board leading its 
-    technology initiatives. Website: [https://www.ajaysrinivasamurthy.in/](https://www.ajaysrinivasamurthy.in/)
-  email: ajaysri@amazon.com
+    Shri Narayanan’s interdisciplinary research focuses on human-centered sensing/imaging, signal processing, and machine intelligence centered 
+    on human communication, interaction, emotions, and behavior.  His work has a special emphasis on speech, audio, language, multimodal and biomedical 
+    problems and applications with direct societal relevance in defense, security, health, media and the arts. His laboratory is supported by federal (NSF, 
+    NIH, DARPA, IARPA, ONR, Army and DHS) and various foundation and industry grants. He has published over 1000 papers and has 19 granted U.S. patents . 
+    His research and inventions have led to technology commercialization including through startups he co-founded: Behavioral Signals Technologies focused on 
+    the telecommunication services and AI based conversational assistance industry and Lyssn focused on mental health care delivery, treatment and quality assurance.
+    Website: [https://sail.usc.edu/people/shri.html](https://sail.usc.edu/people/shri.html)
   
+
+- name: Mrigunka Sur
+  role: Professor 
+  image: assets/theme/images/mriganks.jpg
+  description: >
+     Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology (MIT), Cambridge, USA
+     
+     > Mriganka Sur is the Newton Professor of Neuroscience in The Picower Institute for Learning and Memory 
+     and Director of the Simons Center for the Social Brain at MIT, which he founded after 15 years as head 
+     of the MIT Department of Brain and Cognitive Sciences. Dr. Sur studies the organization, plasticity and 
+     dynamics of the cerebral cortex of the brain using experimental and theoretical approaches. He has discovered 
+     fundamental principles by which networks of the cerebral cortex are wired during development and change 
+     dynamically during learning. His laboratory has identified gene networks underlying cortical plasticity, 
+     and pioneered high resolution imaging methods to study cells, synapses and circuits of the intact brain. 
+     His group has demonstrated novel mechanisms underlying disorders of brain development, and proposed innovative 
+     strategies for treating such disorders. His laboratory has discovered core functional rules of inhibitory-excitatory 
+     neuronal circuits in the cerebral cortex, and revealed dynamics of information processing across widespread cortical 
+     areas. The impact of these discoveries, which answer long-standing questions about computations underlying learning, 
+     decision-making and perception-action transformations, ranges from understanding dysregulation in brain disorders to 
+     brain architectures for next-generation AI. 
+
+    Dr. Sur received the B. Tech. degree in Electrical Engineering from the Indian Institute of Technology, Kanpur, 
+    and the PhD degree in Electrical Engineering from Vanderbilt University, Nashville. He has received numerous awards 
+    and honors, most recently the Krieg Cortical Discoverer Prize, and delivered distinguished lectures world-wide. 
+    He has trained over 80 doctoral students and postdoctoral fellows, and received awards for outstanding teaching and mentoring. 
+    At MIT, he has been recognized with the Sherman Fairchild and Newton Chairs. He is an elected Fellow of the Royal Society of the UK, 
+    the National Academy of Medicine, the American Academy of Arts and Sciences, the American Association for the Advancement of Science, 
+    the World Academy of Sciences, the Indian National Science Academy, and the American Institute of Medical and Biological Engineering.
+    Website: [https://picower.mit.edu/mriganka-sur](https://picower.mit.edu/mriganka-sur)
+  
+
+- name: Dr. Rajeswari Aghoram
+  role: Assistant Professor 
+  image: assets/theme/images/rajeswari.png
+  description: > 
+    Department of Neurology, JIPMER, Pondicherry, India
+
+    > Dr. Rajeswari Aghoram is a faculty member in the Department of Neurology at 
+    Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Pondicherry.
+
+    Academically, Dr. Aghoram holds the degrees of MD and DM, reflecting her specialization in Neurology. 
+    Her special area of interest encompasses Cognitive Neurosciences and EEG Electrophysiology. With a 
+    notable publication record, Dr. Aghoram has contributed to research in various aspects of neurology.
+
+    In addition to her academic pursuits, Dr. Aghoram actively participates in clinical work, conducting 
+    special clinics for Neurodegenerative diseases and General Neurology, Neuromuscular clinic, and for Epilepsy. 
+    This reflects her commitment to addressing a range of neurological conditions and providing specialized care.
+
+    Based in India, Dr. Rajeswari Aghoram continues to make valuable contributions to the field of Neurology through 
+    her clinical practice, research endeavors, and commitment to advancing patient care.
+  
+    Website: [https://jipmer.edu.in/users/drrajeswari](https://jipmer.edu.in/users/drrajeswari)
