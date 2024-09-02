@@ -1,6 +1,6 @@
 ---
 layout: home
-title: WMB&SPI
+title: WMBSPI
 description: ICASSP 2025 Satellite Workshop
 background: /assets/theme/images/header.png
 permalink: /
