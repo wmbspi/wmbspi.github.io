@@ -1,0 +1,111 @@
+# Project team members listed below will appear on the /team page
+
+- name: Preeti Rao
+  role: Professor
+  image: assets/theme/images/preetirao.png
+  description: >
+    Department of Electrical Engineering, IIT Bombay, India
+    
+    > Preeti Rao is a Professor in the Department of Electrical Engg. at IIT Bombay with research interests in 
+    speech and music processing, contributing to audio analyses for music pedagogy and computational musicology 
+    for Indian art music traditions. She has served as a technical programme chair and meta-reviewer for past 
+    editions of the ISMIR conference. She was a general chair for ISMIR 2022 in Bengaluru. She currently serves 
+    on the editorial boards of the Journal of New Music Research (JNMR), Transactions of the International Society 
+    of Music Information Retrieval (TISMIR) and the Journal of Analytical Approaches to Music of South Asia. 
+    Website: [https://www.ee.iitb.ac.in/web/people/preeti-rao/](https://www.ee.iitb.ac.in/web/people/preeti-rao/)
+  email: prao@ee.iitb.ac.in
+
+- name: Hema Murthy
+  role: Professor Emeritus
+  image: assets/theme/images/hemamurthy.png
+  description: >
+    Department of Computer Science and Engineering, IIT Madras, India
+    
+    > Hema Murthy is a Professor Emeritus in the Department of Computer Science and Engineering at IIT Madras. 
+    Her research interests are primarily grounded in Signal Processing guided Machine Learning, with applications 
+    in speech, music and brain signals. She has served as a meta reviewer for ISMIR, general chair for ISMIR 2022, 
+    TPC chair INTERSPEECH 2018, member of ISCA board (2017-2021).  Currently she is an Associate Editor for the IEEE 
+    Transactions on Acoustics Speech and Language Processing. She leads a consortium of 24 Institutions 
+    on "Speech Technologies in Indian Languages." She is a fellow of the Indian National Academy of Engineering (2017), 
+    fellow of ISCA (International Speech Communication Association) (2022), and a fellow of Asia Pacific Artificial 
+    Intelligence Association (2023). 
+    Website: [www.cse.iitm.ac.in/~hema](www.cse.iitm.ac.in/~hema)
+  email: hema@cse.iitm.ac.in
+
+- name: Vipul Arora
+  role: Associate Professor
+  image: assets/theme/images/vipularora.png
+  description: >
+    Department of Electrical Engg., IIT Kanpur, India
+   
+    > Vipul Arora is an Associate Professor and P.K. Kelkar Fellow in the Department of Electrical Engg. at IIT Kanpur. 
+    His research interests lie in speech and audio processing as well as computational Physics. He has contributed 
+    significantly to learning based methods for music, speech and other audio. He was a tutorials chair for ISMIR 2022, 
+    and recently organised and hosted a week-long winter school on the theme of AI for Music at I.I.T. Kanpur which drew 
+    a large number of students and faculty across signal processing, computing and design.   
+  email: vipular@iitk.ac.in
+
+- name: Vinoo Alluri
+  role: Assistant Professor
+  image: assets/theme/images/vinooalluri.png
+  description: >
+    Cognitive Science Lab, IIIT-H, India
+     
+     > Vinoo Alluri is an Assistant Professor at the Cognitive Science Lab at the International Institute of Information 
+     Technology-Hyderabad, India. She has a background in Electronics and Communication Engineering, after which she pursued a 
+     Masters in Music Engineering Technology at the University of Miami, and a Ph.D. in Musicology from the University of 
+     Jyväskylä, Finland. Her work is highly interdisciplinary involving music psychology, music information retrieval, and 
+     neuroscience. She also has formal training in the violin and piano. She currently serves as a meta reviewer for ISMIR, 
+     virtual chair for the upcoming ISMIR 2024, and co-organizer of the ICMPC/ESCOM 2021. 
+  email: vinoo.alluri@iiit.ac.in
+
+- name: Nithya Shikarpur
+  role: PhD Candidate
+  image: assets/theme/images/nithya.png
+  description: > 
+    MIT, USA
+
+    > Nithya Shikarpur is a computer science PhD student at MIT under the supervision of Prof. Anna Huang. She works on generative 
+    modeling of music, specifically low-resource genres such as Hindustani music, and is interested in studying aspects of human-AI 
+    co-creation with her models. Earlier, she completed her masters in computer science at Mila and Université de Montréal. She has 
+    co-organized the Music AI reading group at Mila and volunteered for the organization committee of ISMIR 2022. Website: [https://snnithya.github.io](https://snnithya.github.io)
+  email: snnithya@mit.edu
+
+- name: Manaswi Mishra
+  role: PhD Candidate
+  image: assets/theme/images/manaswi.png
+  description: > 
+    MIT Media Lab, USA
+    
+    > Manaswi Mishra is a PhD student and LEGO Papert fellow at MIT Media Lab, in the Opera of the Future research group with 
+    Prof. Tod Machover. His research is focused on generative AI for audio synthesis and novel instrument design for live music 
+    performance - across museum archives, Operas and Symphonies around the world; published in the Boston Globe, Harvard Tech 
+    Review, Washington Post, Conferences of Computational Creativity, Communications of ACM etc. He has been an organiser of 
+    music tech community india hackathons since 2017, ISMIR satellite hackathon 2022, ADCx India 2024.
+  email: manaswim@media.mit.edu
+
+- name: Ranjani H G
+  role: Principal Data Scientist
+  image: assets/theme/images/ranjanihg.png
+  description: > 
+    GAIA, Ericsson R&D, India
+    
+    > Ranjani H G is a Principal Data Scientist at GAIA, Ericsson R&D in Bengaluru, India. Her research interests include machine 
+    learning, signal processing, speech, audio and music signal analysis and RAN. Her PhD thesis topic was computational approaches for 
+    structural analysis of Indian art music signals.She has been a reviewer in past editions of ISMIR, TISMIR, ICASSP and been part of 
+    the organizing committee of ISMIR 2022. 
+  email: ranjanihg@gmail.com
+
+- name: Ajay Srinivasamurthy
+  role: Applied Science Manager
+  image: assets/theme/images/ajay.png
+  description: > 
+    Amazon AGI, India; IIT Hyderabad, India
+    
+    > Ajay Srinivasamurthy is an Applied Science Manager at Amazon Artificial General Intelligence team in Bengaluru, India and a 
+    visiting member of the faculty at the Department of Heritage Science and Technology, IIT Hyderabad. His research interests 
+    span speech, audio and music signal processing and machine learning. He has been a meta-reviewer in the past editions of the ISMIR 
+    conference and has served as the general chair for ISMIR 2022 in Bengaluru, India. He currently serves on the ISMIR board leading its 
+    technology initiatives. Website: [https://www.ajaysrinivasamurthy.in/](https://www.ajaysrinivasamurthy.in/)
+  email: ajaysri@amazon.com
+  
