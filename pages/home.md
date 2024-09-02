@@ -29,6 +29,6 @@ Workshop Camera Ready Paper Deadline: January 13, 2025
 
 A selected set of papers from the workshop will be published as a monograph.
 
-Additional details about the workshop and latest updates can be found at URL
+Additional details about the workshop and latest updates can be found at URL--Link
 
 Information about the [program]({{ '/program/' | relative_url }}), and [call for papers]({{ '/call/' | relative_url }}) can be found in this website. More information about the workshop program and registration information will be published soon - please watch this website for latest updated information. In the meantime, if you have any questions or need additional information, please contact the workshop organizers at [hema@cse.iitm.ac.in](mailto:hema@cse.iitm.ac.in) or [shri@usc.edu](mailto:shri@usc.edu)
