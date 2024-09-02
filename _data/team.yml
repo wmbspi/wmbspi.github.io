@@ -1,20 +1,5 @@
 # Project team members listed below will appear on the /team page
 
-- name: Preeti Rao
-  role: Professor
-  image: assets/theme/images/preetirao.png
-  description: >
-    Department of Electrical Engineering, IIT Bombay, India
-    
-    > Preeti Rao is a Professor in the Department of Electrical Engg. at IIT Bombay with research interests in 
-    speech and music processing, contributing to audio analyses for music pedagogy and computational musicology 
-    for Indian art music traditions. She has served as a technical programme chair and meta-reviewer for past 
-    editions of the ISMIR conference. She was a general chair for ISMIR 2022 in Bengaluru. She currently serves 
-    on the editorial boards of the Journal of New Music Research (JNMR), Transactions of the International Society 
-    of Music Information Retrieval (TISMIR) and the Journal of Analytical Approaches to Music of South Asia. 
-    Website: [https://www.ee.iitb.ac.in/web/people/preeti-rao/](https://www.ee.iitb.ac.in/web/people/preeti-rao/)
-  email: prao@ee.iitb.ac.in
-
 - name: Hema Murthy
   role: Professor Emeritus
   image: assets/theme/images/hemamurthy.png
@@ -32,17 +17,32 @@
     Website: [www.cse.iitm.ac.in/~hema](www.cse.iitm.ac.in/~hema)
   email: hema@cse.iitm.ac.in
 
-- name: Vipul Arora
-  role: Associate Professor
+- name: Shri Narayanan
+  role: University Professor and Niki & C. L. Max Nikias Chair in Engineering 
   image: assets/theme/images/vipularora.png
   description: >
-    Department of Electrical Engg., IIT Kanpur, India
+    University of Southern California, Los Angeles, USA
    
-    > Vipul Arora is an Associate Professor and P.K. Kelkar Fellow in the Department of Electrical Engg. at IIT Kanpur. 
-    His research interests lie in speech and audio processing as well as computational Physics. He has contributed 
-    significantly to learning based methods for music, speech and other audio. He was a tutorials chair for ISMIR 2022, 
-    and recently organised and hosted a week-long winter school on the theme of AI for Music at I.I.T. Kanpur which drew 
-    a large number of students and faculty across signal processing, computing and design.   
+    > Shrikanth (Shri) Narayanan is University Professor and holder of the Niki and Max 
+    Nikias Chair in Engineering at the University of Southern California (USC) and serves 
+    as the inaugural Vice President for Presidential Initiaitives on the Senior Leadership 
+    Team of USC's President. He is a Professor in the Signal and Image Processing Institute
+    of USC's Ming Hsieh Electrical & Computer Engineering department with joint appointments 
+    as Professor in Computer Science, Linguistics, Psychology, Neuroscience, Pediatrics and 
+    Otolaryngology-Head and Neck Surgery. He is also the inaugural director of the Ming Hsieh 
+    Institute, a Research Director for the Information Sciences Institute at USC and a Visiting 
+    Faculty Researcher at Google. He held the inaugural Viterbi Professorship in Engineering at 
+    USC (2007-2016). He was also a Research Area Director of the Integrated Media Systems Center, 
+    an NSF Engineering Research Center at USC, and was the Research Principal for the USC Pratt and 
+    Whitney Institute for Collaborative Engineering, a unique partnership between academia and industry (2003-2007).   
+
+    Shri Narayanan is a Fellow of the National Academy of Inventors (NAI), the Acoustical Society of 
+    America (ASA), the Institute of Electrical and Electronics Engineers (IEEE), the Association for 
+    Computing Machinery (ACM), the International Speech Communication Association (ISCA), the Association 
+    for Psychological Science (APS), the American Association for the Advancement of Science (AAAS), American 
+    Institute for Medical and Biological Engineering (AIMBE) and the Association for the Advancement of Affective 
+    Computing (AAAC). Shri Narayanan is a member of the [European Academy of Sciences]({{https://euro-acad.eu/}}) and Arts and a [2022 Guggenheim 
+    Fellow]({{https://www.gf.org/fellows/shrikanth-narayanan/}}). He is also a member of the professional honor societies Tau Beta Pi, Phi Kappa Phi and Eta Kappa Nu.
   email: vipular@iitk.ac.in
 
 - name: Vinoo Alluri
