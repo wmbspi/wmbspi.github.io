@@ -27,7 +27,6 @@ Workshop Camera Ready Paper Deadline: January 13, 2025
 
 _All deadlines are 23:59 AoE (“Anywhere on Earth”, UTC-12)_
 
-Additional details about the workshop and latest updates can be found at URL-link
 ### **<span style="color:$gray-800">Submission Information</span>**
 
 Submit your paper to the workshop on the ICASSP 2025 paper management system (CMT) submission system using this link: [https://cmt3.research.microsoft.com/ICASSP2025](https://cmt3.research.microsoft.com/ICASSP2025). Please select "**Satellite Workshop: Workshop on Mapping Brain-Body-Behavior Signal Dynamics in Human Speech Production and Interaction (WMB&SPI)**" on the drop down list during submission. 
