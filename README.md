@@ -1,6 +1,6 @@
 # WIMAGA
 
-This repo builds the website for the Workshop on Indian Music Analysis and Generative Applications (WIMAGA), a satellite workshop of ICASSP 2025 to be held in Hyderabad, India. The website is based on [Petridish](https://github.com/peterdesmet/petridish) theme and adapted from [https://biomedepi.github.io/eegworkshop/](https://biomedepi.github.io/eegworkshop/)
+This repo builds the website for the Workshop on Mapping Brain-Body-Behavior Signal Dynamics in Human Speech Production and Interaction (WMB&SPI), a satellite workshop of ICASSP 2025 to be held in Hyderabad, India. The website is based on [Petridish](https://github.com/peterdesmet/petridish) theme and adapted from [https://biomedepi.github.io/eegworkshop/](https://biomedepi.github.io/eegworkshop/)
 
 ## Usage
 
