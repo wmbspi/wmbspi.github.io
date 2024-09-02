@@ -25,7 +25,7 @@ Workshop Paper Acceptance Notification: December 18, 2024
 
 Workshop Camera Ready Paper Deadline: January 13, 2025
 
-All deadlines are 23:59 AoE (“Anywhere on Earth”, UTC-12)
+<em> All deadlines are 23:59 AoE (“Anywhere on Earth”, UTC-12)</em>
 
 A selected set of papers from the workshop will be published as a monograph.
 
