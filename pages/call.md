@@ -5,7 +5,7 @@ background: /assets/theme/images/header.png
 permalink: /call/
 ---
 
-## **<span style="color:$gray-800">Submit a paper to WIMAGA </span>**
+## **<span style="color:$gray-800">Submit a paper to (WMB&SPI) </span>**
 The workshop invites submission of original research work on the topics relevant for **Mapping Brain-Body-Behavior Signal Dynamics in Human Speech Production and Interaction** to be presented at the workshop. Relevant topics include, but are not limited to:
 
 - Signal processing and machine learning for the analysis of brain signals and its relation to cognition.
